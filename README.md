@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tristan Al Harrish Basori and I'm a Front-End Developer, from Indonesia</h2>
+<h2 align="left">Hi! My name is Tristan and I'm a Front-End Developer, from Indonesia 🇮🇩</h2>
 
 ###
 
