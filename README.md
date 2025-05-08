@@ -1,7 +1,7 @@
 <img src="top2_banner.png"/>
 
 <div style="background-color: #040404;">
-  <h2 align="left">Hi! I'm a Front-End Developer, from Indonesia 🇮🇩</h2
+  <h2> align="left">Hi! I'm a Front-End Developer, from Indonesia 🇮🇩</h2>
 
 ###
 
