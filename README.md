@@ -1,3 +1,5 @@
+![Full black banner](full_black.png)
+
 <img src="top2_banner.png"/>
 
 <h2 align="left">Hi! I'm a Front-End Developer, from Indonesia 🇮🇩</h2>
