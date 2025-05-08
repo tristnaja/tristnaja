@@ -1,3 +1,7 @@
+<img src="top2_banner.png"/>
+
+##
+
 <h2 align="left">Hi! My name is Tristan and I'm a Front-End Developer, from Indonesia 🇮🇩</h2>
 
 ###
