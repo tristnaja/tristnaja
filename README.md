@@ -67,7 +67,7 @@
 ###
 
   <div align="left">
-    <a href="https://www.instagram.com/trstn._" target="_blank">
+    <a href="https://www.instagram.com/trstnalharrish_" target="_blank">
       <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=trstnalharrish_&color=E4405F&logoColor=FCF0CC&labelColor=333745&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
     <a href="tristan.alhabas@gmail.com" target="_blank">
