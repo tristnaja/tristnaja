@@ -1,7 +1,7 @@
 <img src="top_banner2.png"/>
 
 <div style="background-color: #040404;">
-  <h2 align="left">Tristan Al Harrish Basori</h2>
+  <h2 align="center">Tristan Al Harrish Basori</h2>
 
 ###
 
