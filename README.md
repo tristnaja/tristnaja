@@ -1,5 +1,3 @@
-<img src="top_banner2.png"/>
-
 <div style="background-color: #040404;">
   <h2 align="center">Tristan Al Harrish Basori</h2>
 
@@ -88,5 +86,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tristnaja/tristnaja/output/github-snake.svg" />
   </picture>
 </div>
-
-<img src="bottom_banner.png" />
