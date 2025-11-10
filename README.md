@@ -41,7 +41,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="30" alt="assembly logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/asm/asm-original.svg" height="30" alt="assembly logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
     <img width="12" />
