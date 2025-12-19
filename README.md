@@ -2,7 +2,12 @@
 
 <h1 align="center">Tristan Al Harrish Basori</h1>
 <p align="center">
-  <em>Open for Work · Projects · Side-project · Internship</em>
+    <em>Software Engineer</em>
+</p>
+<p align="center">
+  <sub>
+    <em>Open for Work · Projects · Side-project · Internship</em>
+  </sub>
 </p>
 
 ###
