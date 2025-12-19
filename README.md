@@ -6,7 +6,7 @@
 </p>
 
 ###
-<h1 align="center">Contact & Socials</h1>
+<h2 align="center">Contact & Socials</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tristanbasori" target="_blank">
