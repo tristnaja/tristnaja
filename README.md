@@ -1,7 +1,9 @@
 <br clear="both">
 
-<h1 align="center">Tristan Al Harrish Basori</h1>
-<p align="center">Open for Work, Projects, Side-project</p>
+<h1 align="center">
+  Tristan Al Harrish Basori
+  <p align="center">Open for Work, Projects, Side-project</p>
+</h1>
 <a href="mailto:tristan.alhabas@gmail.com" target="_blank" align="center>Contact Me</a>
 
 ###
