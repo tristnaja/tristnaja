@@ -1,12 +1,10 @@
 <br clear="both">
 
-<h1 align="center">
-  Tristan Al Harrish Basori
-  <br />
-  <span style="font-size: 0.6em; font-weight: 400;">
-    Open for Work, Projects, Side-project
-  </span>
-</h1>
+<h1 align="center">Tristan Al Harrish Basori</h1>
+<p align="center">
+  <em>Open for Work · Projects · Side-project</em>
+</p>
+
 <a href="mailto:tristan.alhabas@gmail.com" target="_blank" align="center>Contact Me</a>
 
 ###
