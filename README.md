@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Tristan Al Harrish Basori
-  <p align="center">Open for Work, Projects, Side-project</p>
+  <span style="font-size: 0.6em; font-weight: normal;">Open for Work, Projects, Side-project</span>
 </h1>
 <a href="mailto:tristan.alhabas@gmail.com" target="_blank" align="center>Contact Me</a>
 
