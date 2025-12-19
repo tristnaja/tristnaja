@@ -5,7 +5,9 @@
   <em>Open for Work · Projects · Side-project</em>
 </p>
 
-<a align="center" href="mailto:tristan.alhabas@gmail.com" target="_blank">Contact Me</a>
+<div align"center">
+  <a href="mailto:tristan.alhabas@gmail.com" target="_blank">Contact Me</a>
+</div>
 
 ###
 
