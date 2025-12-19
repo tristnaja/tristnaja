@@ -2,11 +2,10 @@
 
 <h1 align="center">Tristan Al Harrish Basori</h1>
 <p align="center">
-  <em>Open for Work · Projects · Side-project</em>
+  <em>Open for Work · Projects · Side-project · Internship</em>
 </p>
 
 ###
-<h2 align="center">Contact & Socials</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tristanbasori" target="_blank">
